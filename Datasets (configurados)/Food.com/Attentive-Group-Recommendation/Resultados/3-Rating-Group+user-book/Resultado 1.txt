@@ -1,0 +1,27 @@
+"D:\Program files\Python3.7\python.exe" "C:/Users/PC-Caio/Desktop/Datasets (configurados)/Food.com/Attentive-Group-Recommendation/main.py"
+AGREE at embedding size 2, run Iteration:4, NDCG and HR at 5
+tensor(499)
+group train_loader length: 38
+38it [3:47:43, 359.57s/it]
+Iteration 0, loss is [1.0079 ]
+user and group training time is: [13664.2 s]
+Group Iteration 0 [13670.8 s]: Precision = 0.1737, HR = 0.1029, NDCG = 0.1205, [6.6 s]
+tensor(499)
+group train_loader length: 38
+38it [3:47:18, 358.91s/it]
+Iteration 1, loss is [1.0070 ]
+user and group training time is: [13639.5 s]
+Group Iteration 1 [13646.2 s]: Precision = 0.2415, HR = 0.1433, NDCG = 0.1679, [6.7 s]
+tensor(499)
+group train_loader length: 38
+38it [3:46:18, 357.33s/it]
+Iteration 2, loss is [1.0038 ]
+user and group training time is: [13579.0 s]
+Group Iteration 2 [13585.6 s]: Precision = 0.2479, HR = 0.1483, NDCG = 0.1732, [6.6 s]
+tensor(499)
+group train_loader length: 38
+38it [3:48:15, 360.40s/it]
+Iteration 3, loss is [1.0074 ]
+user and group training time is: [13696.5 s]
+Group Iteration 3 [13703.6 s]: Precision = 0.2521, HR = 0.1521, NDCG = 0.1772, [7.1 s]
+Done!

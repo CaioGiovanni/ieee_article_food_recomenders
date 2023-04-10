@@ -1,0 +1,47 @@
+"D:\Program files\Python3.7\python.exe" "C:/Users/PC-Caio/Desktop/Datasets (configurados)/Food.com/Attentive-Group-Recommendation/main.py"
+AGREE at embedding size 2, run Iteration:15, NDCG and HR at 5
+tensor(499)
+group train_loader length: 38
+38it [2:53:12, 273.49s/it]
+Iteration 0, loss is [1.0056 ]
+user and group training time is: [10394.9 s]
+Group Iteration 0 [10402.6 s]: Precision = 0.1568, HR = 0.0821, NDCG = 0.1005, F1-Score = 0.1077, MAE = 0.3959429662330068, RMSE = 0.39890317878253184, [7.7 s]
+tensor(499)
+group train_loader length: 38
+38it [2:44:59, 260.51s/it]
+Iteration 1, loss is [1.0036 ]
+user and group training time is: [9900.1 s]
+Group Iteration 1 [9907.2 s]: Precision = 0.2415, HR = 0.1554, NDCG = 0.1768, F1-Score = 0.1891, MAE = 0.39589061358335187, RMSE = 0.3988532446996019, [7.1 s]
+tensor(499)
+group train_loader length: 38
+38it [2:44:32, 259.81s/it]
+Iteration 2, loss is [1.0073 ]
+user and group training time is: [9872.9 s]
+Group Iteration 2 [9879.9 s]: Precision = 0.2627, HR = 0.1686, NDCG = 0.1921, F1-Score = 0.2054, MAE = 0.395873918423054, RMSE = 0.39883614476606155, [7.0 s]
+0it [00:00, ?it/s]tensor(499)
+group train_loader length: 38
+38it [2:44:27, 259.66s/it]
+Iteration 3, loss is [1.0059 ]
+user and group training time is: [9867.4 s]
+Group Iteration 3 [9874.4 s]: Precision = 0.2669, HR = 0.1706, NDCG = 0.1947, F1-Score = 0.2082, MAE = 0.39584127480217146, RMSE = 0.39880463756825546, [7.0 s]
+tensor(499)
+group train_loader length: 38
+38it [2:44:16, 259.38s/it]
+Iteration 4, loss is [1.0065 ]
+user and group training time is: [9856.8 s]
+Group Iteration 4 [9863.9 s]: Precision = 0.2648, HR = 0.1710, NDCG = 0.1945, F1-Score = 0.2078, MAE = 0.3958124839736877, RMSE = 0.39877650339183934, [7.0 s]
+0it [00:00, ?it/s]tensor(499)
+group train_loader length: 38
+38it [2:49:35, 267.77s/it]
+Iteration 5, loss is [1.0053 ]
+user and group training time is: [10175.7 s]
+Group Iteration 5 [10182.7 s]: Precision = 0.2754, HR = 0.1760, NDCG = 0.2008, F1-Score = 0.2148, MAE = 0.39579479356532604, RMSE = 0.39875905083156776, [7.0 s]
+tensor(499)
+group train_loader length: 38
+38it [2:50:50, 269.76s/it]
+Iteration 6, loss is [1.0042 ]
+user and group training time is: [10251.1 s]
+Group Iteration 6 [10258.1 s]: Precision = 0.2754, HR = 0.1785, NDCG = 0.2027, F1-Score = 0.2166, MAE = 0.39577428955682153, RMSE = 0.39874018125275984, [7.0 s]
+tensor(499)
+group train_loader length: 38
+7it [31:25, 269.09s/it]

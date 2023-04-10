@@ -1,0 +1,59 @@
+"D:\Program files\Python3.7\python.exe" "C:/Users/PC-Caio/Desktop/Datasets (configurados)/Food.com/Attentive-Group-Recommendation/main.py"
+AGREE at embedding size 2, run Iteration:15, NDCG and HR at 5
+tensor(499)
+group train_loader length: 38
+38it [3:45:51, 356.62s/it]
+Iteration 0, loss is [1.0031 ]
+user and group training time is: [13552.5 s]
+Group Iteration 0 [13559.1 s]: Precision = 0.1314, HR = 0.0799, NDCG = 0.0926, [6.6 s]
+tensor(499)
+group train_loader length: 38
+38it [3:45:00, 355.29s/it]
+Iteration 1, loss is [1.0015 ]
+user and group training time is: [13501.3 s]
+Group Iteration 1 [13507.7 s]: Precision = 0.2352, HR = 0.1408, NDCG = 0.1641, [6.4 s]
+0it [00:00, ?it/s]tensor(499)
+group train_loader length: 38
+38it [3:46:26, 357.53s/it]
+Iteration 2, loss is [1.0012 ]
+user and group training time is: [13586.6 s]
+Group Iteration 2 [13593.0 s]: Precision = 0.2521, HR = 0.1566, NDCG = 0.1803, [6.4 s]
+tensor(499)
+group train_loader length: 38
+38it [3:47:10, 358.71s/it]
+Iteration 3, loss is [0.9995 ]
+user and group training time is: [13631.2 s]
+Group Iteration 3 [13637.6 s]: Precision = 0.2627, HR = 0.1637, NDCG = 0.1883, [6.4 s]
+0it [00:00, ?it/s]tensor(499)
+group train_loader length: 38
+38it [3:47:24, 359.05s/it]
+Iteration 4, loss is [1.0004 ]
+user and group training time is: [13644.8 s]
+Group Iteration 4 [13651.8 s]: Precision = 0.2691, HR = 0.1675, NDCG = 0.1927, [7.0 s]
+tensor(499)
+group train_loader length: 38
+38it [3:47:23, 359.05s/it]
+Iteration 5, loss is [0.9996 ]
+user and group training time is: [13644.4 s]
+Group Iteration 5 [13650.9 s]: Precision = 0.2712, HR = 0.1659, NDCG = 0.1921, [6.5 s]
+0it [00:00, ?it/s]tensor(499)
+group train_loader length: 38
+38it [3:47:24, 359.08s/it]
+Iteration 6, loss is [0.9977 ]
+user and group training time is: [13645.3 s]
+Group Iteration 6 [13651.8 s]: Precision = 0.2733, HR = 0.1652, NDCG = 0.1921, [6.5 s]
+0it [00:00, ?it/s]tensor(499)
+group train_loader length: 38
+38it [3:47:48, 359.71s/it]
+Iteration 7, loss is [0.9985 ]
+user and group training time is: [13669.9 s]
+Group Iteration 7 [13676.6 s]: Precision = 0.2712, HR = 0.1692, NDCG = 0.1947, [6.7 s]
+tensor(499)
+group train_loader length: 38
+38it [3:44:56, 355.17s/it]
+Iteration 8, loss is [0.9989 ]
+user and group training time is: [13497.7 s]
+Group Iteration 8 [13504.3 s]: Precision = 0.2712, HR = 0.1684, NDCG = 0.1940, [6.5 s]
+tensor(499)
+group train_loader length: 38
+11it [1:08:04, 389.11s/it]
